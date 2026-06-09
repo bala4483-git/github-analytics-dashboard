@@ -1,0 +1,6 @@
+repo_id,repo_name,language,created_date,visibility,team
+1,data-pipeline-etl,Python,2023-01-15,public,Data Engineering
+2,bi-dashboard-suite,SQL,2023-03-20,private,Analytics
+3,api-gateway-service,Java,2023-06-01,private,Backend
+4,ml-model-registry,Python,2024-01-10,public,Data Science
+5,frontend-portal,JavaScript,2023-09-15,private,Frontend

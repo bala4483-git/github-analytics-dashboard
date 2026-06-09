@@ -1,0 +1,13 @@
+review_id,pr_id,reviewer_id,review_date,outcome,comments_count
+1,1,1,2024-01-07 10:00:00,approved,3
+2,1,4,2024-01-07 14:00:00,changes_requested,5
+3,2,1,2024-01-19 10:00:00,approved,2
+4,3,9,2024-01-26 09:00:00,approved,1
+5,3,1,2024-01-27 11:00:00,changes_requested,4
+6,3,4,2024-01-27 15:00:00,approved,2
+7,5,9,2024-02-23 10:00:00,approved,1
+8,6,1,2024-01-23 09:00:00,approved,3
+9,6,4,2024-01-23 14:00:00,approved,2
+10,8,9,2024-02-19 10:00:00,approved,4
+11,10,1,2024-02-09 09:00:00,changes_requested,6
+12,10,3,2024-02-09 14:00:00,approved,2

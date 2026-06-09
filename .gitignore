@@ -1,0 +1,14 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Power BI temp files
+*.pbix.bak
+*.tmp
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# VS Code
+.vscode/

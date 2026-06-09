@@ -1,0 +1,11 @@
+issue_id,repo_id,contributor_id,title,priority,status,created_date,closed_date,label
+1,1,4,ETL fails on null values,critical,closed,2024-01-10 09:00:00,2024-01-12 14:00:00,bug
+2,2,1,Add export to CSV feature,medium,closed,2024-01-15 10:00:00,2024-01-22 11:00:00,feature
+3,3,8,API timeout on large payloads,high,in_progress,2024-01-20 14:00:00,,bug
+4,4,7,Model versioning edge case,high,closed,2024-01-25 09:00:00,2024-02-01 10:00:00,bug
+5,5,5,Login button misaligned,low,closed,2024-01-28 11:00:00,2024-02-05 09:00:00,enhancement
+6,1,2,Spark job memory overflow,critical,closed,2024-02-01 08:00:00,2024-02-03 15:00:00,bug
+7,2,9,KPI report wrong totals,high,closed,2024-02-05 10:00:00,2024-02-08 12:00:00,bug
+8,3,3,Rate limiter not resetting,medium,open,2024-02-10 09:00:00,,bug
+9,4,1,Add GPU support for training,medium,in_progress,2024-02-12 14:00:00,,feature
+10,5,8,QA test coverage below 70%,high,open,2024-02-20 10:00:00,,enhancement
